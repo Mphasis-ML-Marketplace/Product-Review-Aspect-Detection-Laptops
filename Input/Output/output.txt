@@ -1,0 +1,11 @@
+{'review': "The screen doesn't lift keyboard Build & Looks are awesome. Performance is just awesome, Boots in seconds (5 - 6 sec) & same way it shuts down Apps opens in no time Gestures works perfectly All thanks to 11th Gen i5, 16GB Ram & 512 NvMe SSD. Didn't checked in daylight but at home it is very bright Watching videos in FHD IPS display is a pleasure. Only drawback I noticed was charging pin is too tight to push & pull out and battery life is low",
+ 'topics': [{'sentence': 'screen lift keyboard build look awesome',
+   'aspect': {'build': 0.49263406772559, 'price': 0.4305308129220436}},
+  {'sentence': 'performance awesome boot second sec way shuts opens time gesture work perfectly thanks th gen gb ram nvme ssd',
+   'aspect': {'sound quality': 0.4833304363013942}},
+  {'sentence': 'check daylight home bright watch video fhd ip display pleasure',
+   'aspect': {'display quality': 0.37520187176079456,
+    'sound quality': 0.3676163146186516}},
+  {'sentence': 'drawback notice charge pin tight push pull battery life low',
+   'aspect': {'display quality': 0.3440414639882834,
+    'battery life': 0.3071875760673248}}]}
